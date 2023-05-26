@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Cameras
+Categories=AudioVideo;Player;Recorder;
+Comment=Matson Fruit Security Cameras
+Icon=/home/pi/pi-security-monitors/camera-logo.png
+Exec=/home/pi/pi-security-monitors/autostart.sh
+Keywords=Security;Player;Video;Server;Camera;
+Terminal=false
